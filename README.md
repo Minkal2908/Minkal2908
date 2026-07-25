@@ -88,7 +88,7 @@
 - ⭐ **Maximum LeetCode Rating: 1600**
 - 🎯 Qualified **JEE Advanced** (AIR **21,563**, Category Rank **5,599**)
 - 🎯 Qualified **JEE Main** (AIR **23,336**, Category Rank **6,100**)
-- 🏅 Qualified **Bihar Mathematics Olympiad** (Patna District Rank **8**)
+- 🏅 Qualified **Bihar Mathematics Olympiad (SRTSTM)** (Patna District Rank **8**)
 
 ---
 
