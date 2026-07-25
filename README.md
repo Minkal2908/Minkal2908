@@ -1,161 +1,221 @@
-<h1 align="center">Hi 👋, I'm Minkal Kumar</h1>
-<h3 align="center">B.Tech IT Student @ NIT Jalandhar | Full Stack Developer | DSA Enthusiast | AI Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Minkal Kumar
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+### B.Tech Information Technology @ NIT Jalandhar
+### Full Stack Developer • Backend Enthusiast • DSA Enthusiast
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;DSA+Enthusiast;AI+Explorer;Always+Learning+New+Things" />
 
-- 🎓 B.Tech **Information Technology** @ **NIT Jalandhar (2024–2028)**
-- 💻 Passionate about **Software Development** and **Problem Solving**
-- 🌱 Currently learning **System Design, AI Integration & Advanced Backend Development**
-- 🔭 Building **Full Stack MERN Applications**
-- 💡 Interested in **Backend Engineering, AI, Cloud & Scalable Systems**
-- 🧠 Solved **450+ LeetCode** problems and **165+ GeeksforGeeks** problems
-- 🎯 Goal: Become a Software Engineer at a top product-based company
+</div>
 
 ---
 
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtuG6V7Gl7Y/giphy.gif">
+
+## 🚀 About Me
+
+- 🎓 B.Tech Information Technology @ **Dr. B R Ambedkar National Institute of Technology, Jalandhar**
+- 💻 Passionate about **Full Stack Development**, **Backend Engineering** and **Problem Solving**
+- 🌱 Currently learning **Backend Development**, **Artificial Intelligence** and **System Design**
+- 🚀 Building real-world Full Stack Projects
+- ⚡ Love solving DSA problems and exploring new technologies
+- 🎯 Goal: Become a Software Engineer at a top Product-Based Company
+
+<br>
+
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
+
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Frontend
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Technologies
+### 🧰 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
+
+</div>
 
 ---
 
-## 📈 Coding Profiles
+# 🏆 Achievements
 
-<p align="left">
+- 🥇 Solved **700+ DSA Problems** across **LeetCode, GeeksforGeeks, Code360, CodeChef, Codeforces & HackerRank**
+- 💙 Solved **500+ Problems** on **LeetCode**
+- ⭐ **Maximum LeetCode Rating: 1600**
+- 🎯 Qualified **JEE Advanced** (AIR **21,563**, Category Rank **5,599**)
+- 🎯 Qualified **JEE Main** (AIR **23,336**, Category Rank **6,100**)
+- 🏅 Qualified **Bihar Mathematics Olympiad** (State Rank **8**)
 
-<a href="https://leetcode.com/u/Musteena2026/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+---
+
+# 🌱 Currently Working On
+
+- 🚀 Backend Development
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Web Development
+- 📚 Data Structures & Algorithms
+- ⚡ Building Real-World Projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:minkalkumar2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Minkal2908">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/minkal-kumar-36b77b264/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/minkal-kumar-36b77b264">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Minkal2908" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/u/Judagi65/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/minkalkumar2005/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/minkalkumar" target="_blank">
+<img src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge"/>
+</a>
+
+<a href="https://codeforces.com/profile/minkalkumar2005" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/minkalkumar205" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/minkalkumar2005" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://codolio.com/profile/minkalkumar2005" target="_blank">
+<img src="https://img.shields.io/badge/Codolio-2962FF?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-🏅 Solved **450+ Problems** on LeetCode
-
-🏅 Solved **165+ Problems** on GeeksforGeeks
-
-🏅 Qualified **JEE Advanced**
-
-🏅 Qualified **JEE Main**
-
-🏅 Bihar Mathematics Olympiad State Rank **8**
+| Project | Description |
+|----------|-------------|
+| 🌦️ Weather App | Weather application using HTML, CSS & JavaScript with live API integration |
+| 🔐 Password Generator | Responsive password generator built using React |
+| 🎨 Background Changer | Interactive React project demonstrating hooks and state management |
+| 🚑 Disaster Relief Resource Coordination System | MERN stack platform connecting victims, NGOs and authorities |
+| 🤖 AI Interview Prep Platform | AI-powered interview preparation platform with React, Node.js, FastAPI & MongoDB |
 
 ---
 
-## 🚀 Featured Projects
+# 💡 Quote
 
-### 🌦️ Weather App
-- Built using HTML, CSS & JavaScript
-- Uses Weather API
-- Responsive UI
+> *"Consistency beats talent when talent doesn't stay consistent."*
 
 ---
 
-### 🤖 AI Powered Technical Interview Prep Platform
-- React
-- Node.js
-- FastAPI
-- MongoDB
-- Ollama
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minkal2908&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minkal2908&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🚨 Disaster Relief Resource Coordination System
-- MERN Stack
-- Authentication
-- Dashboard
-- Resource Management
-- Real-time Coordination
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Minkal2908&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minkal2908&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Minkal2908&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Minkal2908&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minkal2908&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Minkal2908/Minkal2908/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minkal2908&theme=github-compact&hide_border=true"/>
 
-</p>
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** minkalkumar2005@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/minkal-kumar-36b77b264
-
-💻 **GitHub:** https://github.com/Minkal2908
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 💻 LeetCode Stats
 
-<p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Judagi65?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Minkal2908/Minkal2908/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Minkal2908&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
