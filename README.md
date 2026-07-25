@@ -136,13 +136,15 @@
 
 <div align="center">
 
-| Project | Tech Stack |
-| :--- | :--- |
-| 🌦️ **Weather App** | HTML • CSS • JavaScript • OpenWeather API |
-| 🔐 **Password Generator** | React • JavaScript • CSS |
-| 🎨 **Background Changer** | React • Hooks • CSS |
-| 🚑 **Disaster Relief Resource Coordination System** | MERN • MongoDB • Express • React • Node.js |
-| 🤖 **AI Interview Prep Platform** | React • Node.js • FastAPI • MongoDB • AI |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🚑 **Disaster Relief Resource Coordination System** | Full-stack MERN platform for disaster response, resource allocation, NGO coordination, and real-time assistance. | `React` `Node.js` `Express` `MongoDB` |
+| 🤖 **AI Interview Prep Platform** | AI-powered interview preparation platform with intelligent interview assistance and backend APIs. | `React` `FastAPI` `Node.js` `MongoDB` |
+| 📝 **Thrillist – Live Blog Platform** | MERN blogging platform with JWT authentication, blog CRUD operations, REST APIs, responsive UI, and dark mode. | `React` `Node.js` `MongoDB` `Tailwind CSS` |
+| 🍔 **Online Food Ordering System** | Web-based food ordering application with authentication, menu browsing, order placement, and MySQL database integration. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+| 🌦️ **Weather App** | Responsive weather application providing real-time weather updates using the OpenWeather API. | `HTML` `CSS` `JavaScript` `OpenWeather API` |
+| 🔐 **Password Generator** | Responsive password generator with customizable options built using React Hooks. | `React` `JavaScript` `CSS` |
+| 🎨 **Background Changer** | Interactive React application demonstrating state management through dynamic background color changes. | `React` `JavaScript` `CSS` |
 
 </div>
 
