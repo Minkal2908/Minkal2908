@@ -138,13 +138,8 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| 🚑 **Disaster Relief Resource Coordination System** | Full-stack MERN platform for disaster response, resource allocation, NGO coordination, and real-time assistance. | `React` `Node.js` `Express` `MongoDB` |
-| 🤖 **AI Interview Prep Platform** | AI-powered interview preparation platform with intelligent interview assistance and backend APIs. | `React` `FastAPI` `Node.js` `MongoDB` |
-| 📝 **Thrillist – Live Blog Platform** | MERN blogging platform with JWT authentication, blog CRUD operations, REST APIs, responsive UI, and dark mode. | `React` `Node.js` `MongoDB` `Tailwind CSS` |
-| 🍔 **Online Food Ordering System** | Web-based food ordering application with authentication, menu browsing, order placement, and MySQL database integration. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
-| 🌦️ **Weather App** | Responsive weather application providing real-time weather updates using the OpenWeather API. | `HTML` `CSS` `JavaScript` `OpenWeather API` |
-| 🔐 **Password Generator** | Responsive password generator with customizable options built using React Hooks. | `React` `JavaScript` `CSS` |
-| 🎨 **Background Changer** | Interactive React application demonstrating state management through dynamic background color changes. | `React` `JavaScript` `CSS` |
+| 💬 **Real-Time Chat Application** | Full-stack real-time messaging platform with secure authentication, one-to-one chat, online user presence, image sharing, persistent conversations, and Socket.IO-based real-time communication. | `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Cloudinary` |
+| 🤖 **GenWeb.ai – AI Website Builder** | AI-powered website builder that generates responsive websites from natural-language prompts, supports AI-driven editing, code preview, project persistence, credit-based usage, Stripe payments, and website publishing. | `React` `Node.js` `Express` `MongoDB` `OpenRouter` `Stripe` `Tailwind CSS` |
 
 </div>
 
